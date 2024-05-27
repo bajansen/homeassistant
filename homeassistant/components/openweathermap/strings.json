@@ -47,5 +47,78 @@
         }
       }
     }
+  },
+  "entity": {
+    "sensor": {
+      "attr_api_weather": {
+        "name": "Weather"
+      },
+      "attr_api_dew_point": {
+        "name": "Dew Point"
+      },
+      "attr_api_temperature": {
+        "name": "Temperature"
+      },
+      "attr_api_feels_like_temperature": {
+        "name": "Feels like temperature"
+      },
+      "attr_api_wind_speed": {
+        "name": "Wind speed"
+      },
+      "attr_api_wind_bearing": {
+        "name": "Wind bearing"
+      },
+      "attr_api_humidity": {
+        "name": "Humidity"
+      },
+      "attr_api_pressure": {
+        "name": "Pressure"
+      },
+      "attr_api_clouds": {
+        "name": "Cloud coverage"
+      },
+      "attr_api_rain": {
+        "name": "Rain"
+      },
+      "attr_api_snow": {
+        "name": "Snow"
+      },
+      "attr_api_precipitation_kind": {
+        "name": "Precipitation kind"
+      },
+      "attr_api_uv_index": {
+        "name": "UV Index"
+      },
+      "attr_api_visibility_distance": {
+        "name": "Visibility"
+      },
+      "attr_api_condition": {
+        "name": "Condition"
+      },
+      "attr_api_weather_code": {
+        "name": "Weather Code"
+      },
+      "attr_api_forecast_precipitation": {
+        "name": "Precipitation"
+      },
+      "attr_api_forecast_precipitation_probability": {
+        "name": "Precipitation probability"
+      },
+      "attr_api_forecast_pressure": {
+        "name": "Pressure"
+      },
+      "attr_api_forecast_temp": {
+        "name": "Temperature"
+      },
+      "attr_api_forecast_temp_low": {
+        "name": "Temperature Low"
+      },
+      "attr_api_forecast_time": {
+        "name": "Time"
+      },
+      "attr_api_cloud_coverage": {
+        "name": "Cloud coverage"
+      }
+    }
   }
 }
